@@ -1,5 +1,8 @@
 ### DLSS Override Enabler
 
+
+[info based on this video](https://www.youtube.com/watch?v=dxC-uCYP9QM)
+
 #### English:
 ![image](https://github.com/user-attachments/assets/55c972e6-df02-467e-85ec-980ea1ac429b)
 
